@@ -1,0 +1,34 @@
+<! doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>About B-Trees</title>
+<style>
+body {
+    background-color: #0F111A;
+    color: #E5E9F0;
+}
+.main {
+    left:20%;
+    top: 20%;
+}
+</style>
+</head>
+<body>
+    <div id="main">
+    B-Trees was started in 2021 by <a href="http://brendancoates.net">Brendan Coates</a> 
+    with the goal of restoring native plant and animal communities in Los Angeles,
+    with a particular focus on helping tenants reclaim their outdoor space from landlords and from the city<br><br>
+    B-Trees provides seeds, seedlings, and training to help tenants start native/ regionally appropriate
+    gardens where they live<br><br>
+    Among the many indignities of tenancy, of not having control over your housing, is that
+    your own relationship with the land, the source of everything we'll ever need on this earth,
+    becomes mediated by capitalist property relations. This has a host of side effects for tenants,
+    from access to plant foods and medicines, to the widely reported mental health
+    benefits of gardening<br><br>
+    As global warming accelerates, it's becoming increasingly important to recognize the benefits of
+    working with beings who have lived in our neighborhoods for millions of years. Our photosynthetic bretheren
+    are magnificent community builders and we have much to learn from them<br><br>
+    </div>
+</body>
+</html>
